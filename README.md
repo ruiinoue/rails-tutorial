@@ -50,3 +50,7 @@ https://github.com/ruiinoue/rails-tutorial/issues/8
 ### 演習５
 
 https://github.com/ruiinoue/rails-tutorial/issues/10
+
+### 演習 6
+
+https://github.com/ruiinoue/rails-tutorial/issues/12
