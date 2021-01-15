@@ -24,6 +24,20 @@ $ rails test
 
 rails チュートリアルで学んだことをアウトプットしていきます。
 
+## 別セクションのブランチ
+
+- メインコンテンツ
+
+https://github.com/ruiinoue/rails-tutorial
+
+- 静的ページの作成セクション
+
+https://github.com/ruiinoue/rails-tutorial/tree/feature/section/static-pages
+
+- テスト処理のセクション
+
+https://github.com/ruiinoue/rails-tutorial/tree/feature/section/static-pages_test
+
 ## 演習問題
 
 ここに演習問題の一覧を表示します。
