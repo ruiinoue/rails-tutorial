@@ -1,27 +1,24 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## オプション
 
-Things you may want to cover:
+rails サーバーの立ち上げ
 
-- Ruby version
+```
+$ rails server
+```
 
-- System dependencies
+データベースのマイグレーション
 
-- Configuration
+```
+$ rails db:migrate
+```
 
-- Database creation
+テスト
 
-- Database initialization
-
-- How to run the test suite
-
-- Services (job queues, cache servers, search engines, etc.)
-
-- Deployment instructions
-
-- ...
+```
+$ rails test
+```
 
 # rails-tutorial
 
