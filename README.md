@@ -54,3 +54,7 @@ https://github.com/ruiinoue/rails-tutorial/issues/10
 ### 演習 6
 
 https://github.com/ruiinoue/rails-tutorial/issues/12
+
+### 演習７
+
+https://github.com/ruiinoue/rails-tutorial/issues/14
