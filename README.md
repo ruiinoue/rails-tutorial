@@ -38,6 +38,8 @@ https://github.com/ruiinoue/rails-tutorial/tree/feature/section/static-pages
 
 https://github.com/ruiinoue/rails-tutorial/tree/feature/section/static-pages_test
 
+- Ruby の学習セクション
+
 ## 演習問題
 
 ここに演習問題の一覧を表示します。
