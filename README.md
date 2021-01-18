@@ -85,3 +85,17 @@ https://github.com/ruiinoue/rails-tutorial/issues/18
 ### 演習 11
 
 https://github.com/ruiinoue/rails-tutorial/issues/19
+
+### ruby の演習
+
+- https://github.com/ruiinoue/rails-tutorial/issues/23
+- https://github.com/ruiinoue/rails-tutorial/issues/24
+- https://github.com/ruiinoue/rails-tutorial/issues/25
+- https://github.com/ruiinoue/rails-tutorial/issues/26
+- https://github.com/ruiinoue/rails-tutorial/issues/27
+- https://github.com/ruiinoue/rails-tutorial/issues/28
+- https://github.com/ruiinoue/rails-tutorial/issues/29
+- https://github.com/ruiinoue/rails-tutorial/issues/30
+- https://github.com/ruiinoue/rails-tutorial/issues/31
+- https://github.com/ruiinoue/rails-tutorial/issues/32
+- https://github.com/ruiinoue/rails-tutorial/issues/33
