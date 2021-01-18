@@ -38,53 +38,30 @@ https://github.com/ruiinoue/rails-tutorial/tree/feature/section/static-pages
 
 https://github.com/ruiinoue/rails-tutorial/tree/feature/section/static-pages_test
 
+- ruby の基礎知識のセクション
+
+https://github.com/ruiinoue/rails-tutorial/tree/feature/section/ruby-practice
+
 ## 演習問題
 
 ここに演習問題の一覧を表示します。
 
-### 演習１
+### 最初のセットアップまでの演習
 
-https://github.com/ruiinoue/rails-tutorial/issues/2
+- https://github.com/ruiinoue/rails-tutorial/issues/2
+- https://github.com/ruiinoue/rails-tutorial/issues/5
+- https://github.com/ruiinoue/rails-tutorial/issues/6
+- https://github.com/ruiinoue/rails-tutorial/issues/8
+- https://github.com/ruiinoue/rails-tutorial/issues/10
+- https://github.com/ruiinoue/rails-tutorial/issues/12
+- https://github.com/ruiinoue/rails-tutorial/issues/14
 
-### 演習２
+### 静的ページ作成とテストの演習
 
-https://github.com/ruiinoue/rails-tutorial/issues/5
-
-### 演習３
-
-https://github.com/ruiinoue/rails-tutorial/issues/6
-
-### 演習４
-
-https://github.com/ruiinoue/rails-tutorial/issues/8
-
-### 演習５
-
-https://github.com/ruiinoue/rails-tutorial/issues/10
-
-### 演習 6
-
-https://github.com/ruiinoue/rails-tutorial/issues/12
-
-### 演習７
-
-https://github.com/ruiinoue/rails-tutorial/issues/14
-
-### 演習 8
-
-https://github.com/ruiinoue/rails-tutorial/issues/15
-
-### 演習９
-
-https://github.com/ruiinoue/rails-tutorial/issues/17
-
-### 演習 10
-
-https://github.com/ruiinoue/rails-tutorial/issues/18
-
-### 演習 11
-
-https://github.com/ruiinoue/rails-tutorial/issues/19
+- https://github.com/ruiinoue/rails-tutorial/issues/15
+- https://github.com/ruiinoue/rails-tutorial/issues/17
+- https://github.com/ruiinoue/rails-tutorial/issues/18
+- https://github.com/ruiinoue/rails-tutorial/issues/19
 
 ### ruby の演習
 
