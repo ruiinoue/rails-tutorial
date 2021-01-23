@@ -76,3 +76,15 @@ https://github.com/ruiinoue/rails-tutorial/tree/feature/section/ruby-practice
 - https://github.com/ruiinoue/rails-tutorial/issues/31
 - https://github.com/ruiinoue/rails-tutorial/issues/32
 - https://github.com/ruiinoue/rails-tutorial/issues/33
+
+### ruby のレイアウトの演習
+
+- https://github.com/ruiinoue/rails-tutorial/issues/35
+- https://github.com/ruiinoue/rails-tutorial/issues/39
+- https://github.com/ruiinoue/rails-tutorial/issues/42
+- https://github.com/ruiinoue/rails-tutorial/issues/45
+- https://github.com/ruiinoue/rails-tutorial/issues/48
+- https://github.com/ruiinoue/rails-tutorial/issues/50
+- https://github.com/ruiinoue/rails-tutorial/issues/52
+- https://github.com/ruiinoue/rails-tutorial/issues/57
+- https://github.com/ruiinoue/rails-tutorial/issues/58
