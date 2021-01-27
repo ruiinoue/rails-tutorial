@@ -88,3 +88,19 @@ https://github.com/ruiinoue/rails-tutorial/tree/feature/section/ruby-practice
 - https://github.com/ruiinoue/rails-tutorial/issues/52
 - https://github.com/ruiinoue/rails-tutorial/issues/57
 - https://github.com/ruiinoue/rails-tutorial/issues/58
+
+### User モデル作成の演習
+
+- https://github.com/ruiinoue/rails-tutorial/issues/62
+- https://github.com/ruiinoue/rails-tutorial/issues/63
+- https://github.com/ruiinoue/rails-tutorial/issues/64
+- https://github.com/ruiinoue/rails-tutorial/issues/65
+- https://github.com/ruiinoue/rails-tutorial/issues/66
+- https://github.com/ruiinoue/rails-tutorial/issues/69
+- https://github.com/ruiinoue/rails-tutorial/issues/71
+- https://github.com/ruiinoue/rails-tutorial/issues/73
+- https://github.com/ruiinoue/rails-tutorial/issues/75
+- https://github.com/ruiinoue/rails-tutorial/issues/78
+- https://github.com/ruiinoue/rails-tutorial/issues/81
+- https://github.com/ruiinoue/rails-tutorial/issues/83
+- https://github.com/ruiinoue/rails-tutorial/issues/84
