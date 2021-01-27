@@ -48,7 +48,7 @@ https://github.com/ruiinoue/rails-tutorial/pull/67
 
 ## 演習問題
 
-ここに演習問題の一覧を表示します。
+ユーザーモデルを作成するブランチです。
 
 ### 最初のセットアップまでの演習
 
