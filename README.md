@@ -42,6 +42,10 @@ https://github.com/ruiinoue/rails-tutorial/tree/feature/section/static-pages_tes
 
 https://github.com/ruiinoue/rails-tutorial/tree/feature/section/ruby-practice
 
+- User モデル作成のセクション
+
+https://github.com/ruiinoue/rails-tutorial/pull/67
+
 ## 演習問題
 
 ここに演習問題の一覧を表示します。
