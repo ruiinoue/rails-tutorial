@@ -107,4 +107,5 @@ https://github.com/ruiinoue/rails-tutorial/pull/67
 - https://github.com/ruiinoue/rails-tutorial/issues/78
 - https://github.com/ruiinoue/rails-tutorial/issues/81
 - https://github.com/ruiinoue/rails-tutorial/issues/83
+
 - https://github.com/ruiinoue/rails-tutorial/issues/84
