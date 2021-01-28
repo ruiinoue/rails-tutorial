@@ -12,8 +12,9 @@ class UsersController < ApplicationController
     @user = User.new(user_params)
     if @user.save
 
+    else
+      render 'new'
     end
-    render 'new'
   end
 
   def user_params  
