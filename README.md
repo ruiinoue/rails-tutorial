@@ -44,7 +44,11 @@ https://github.com/ruiinoue/rails-tutorial/tree/feature/section/ruby-practice
 
 - User モデル作成のセクション
 
-https://github.com/ruiinoue/rails-tutorial/pull/67
+https://github.com/ruiinoue/rails-tutorial/tree/feature/section/create-user-model
+
+- ユーザー登録のセクション
+
+https://github.com/ruiinoue/rails-tutorial/tree/feature/section/register
 
 ## 演習問題
 
@@ -108,3 +112,19 @@ https://github.com/ruiinoue/rails-tutorial/pull/67
 - https://github.com/ruiinoue/rails-tutorial/issues/81
 - https://github.com/ruiinoue/rails-tutorial/issues/83
 - https://github.com/ruiinoue/rails-tutorial/issues/84
+
+### ユーザー登録の演習
+
+- https://github.com/ruiinoue/rails-tutorial/issues/87
+- https://github.com/ruiinoue/rails-tutorial/issues/89
+- https://github.com/ruiinoue/rails-tutorial/issues/93
+- https://github.com/ruiinoue/rails-tutorial/issues/95
+- https://github.com/ruiinoue/rails-tutorial/issues/98
+- https://github.com/ruiinoue/rails-tutorial/issues/99
+- https://github.com/ruiinoue/rails-tutorial/issues/101
+- https://github.com/ruiinoue/rails-tutorial/issues/103
+- https://github.com/ruiinoue/rails-tutorial/issues/105
+- https://github.com/ruiinoue/rails-tutorial/issues/107
+- https://github.com/ruiinoue/rails-tutorial/issues/108
+- https://github.com/ruiinoue/rails-tutorial/issues/109
+- https://github.com/ruiinoue/rails-tutorial/issues/112
