@@ -111,7 +111,6 @@ https://github.com/ruiinoue/rails-tutorial/tree/feature/section/register
 - https://github.com/ruiinoue/rails-tutorial/issues/78
 - https://github.com/ruiinoue/rails-tutorial/issues/81
 - https://github.com/ruiinoue/rails-tutorial/issues/83
-
 - https://github.com/ruiinoue/rails-tutorial/issues/84
 
 ### ユーザー登録の演習
