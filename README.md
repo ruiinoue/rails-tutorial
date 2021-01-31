@@ -58,6 +58,8 @@ https://github.com/ruiinoue/rails-tutorial/tree/feature/section/basic-login
 
 https://github.com/ruiinoue/rails-tutorial/tree/feature/section/login-remember
 
+- ユーザーの更新・編集・削除のブランチ
+
 ## 演習問題
 
 ユーザーモデルを作成するブランチです。
@@ -159,3 +161,5 @@ https://github.com/ruiinoue/rails-tutorial/tree/feature/section/login-remember
 - https://github.com/ruiinoue/rails-tutorial/issues/147
 - https://github.com/ruiinoue/rails-tutorial/issues/149
 - https://github.com/ruiinoue/rails-tutorial/issues/152
+
+### ユーザーの更新・編集・削除の演習
