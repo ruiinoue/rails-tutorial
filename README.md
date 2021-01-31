@@ -54,6 +54,10 @@ https://github.com/ruiinoue/rails-tutorial/tree/feature/section/register
 
 https://github.com/ruiinoue/rails-tutorial/tree/feature/section/basic-login
 
+- ログイン記憶のブランチ
+
+https://github.com/ruiinoue/rails-tutorial/tree/feature/section/login-remember
+
 ## 演習問題
 
 ここに演習問題の一覧を表示します。
@@ -145,3 +149,13 @@ https://github.com/ruiinoue/rails-tutorial/tree/feature/section/basic-login
 - https://github.com/ruiinoue/rails-tutorial/issues/130
 - https://github.com/ruiinoue/rails-tutorial/issues/133
 - https://github.com/ruiinoue/rails-tutorial/issues/135
+
+### ログイン記憶の演習
+
+- https://github.com/ruiinoue/rails-tutorial/issues/138
+- https://github.com/ruiinoue/rails-tutorial/issues/141
+- https://github.com/ruiinoue/rails-tutorial/issues/143
+- https://github.com/ruiinoue/rails-tutorial/issues/145
+- https://github.com/ruiinoue/rails-tutorial/issues/147
+- https://github.com/ruiinoue/rails-tutorial/issues/149
+- https://github.com/ruiinoue/rails-tutorial/issues/152
