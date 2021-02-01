@@ -8,6 +8,7 @@ gem 'rails', '~> 6.0.3', '>= 6.0.3.4'
 gem 'bootstrap-sass', '3.4.1'
 gem 'rails-controller-testing'
 gem 'bcrypt'
+gem 'faker'
 # Use postgresql as the database for Active Record
 gem 'pg', '>= 0.18', '< 2.0'
 # Use Puma as the app server
