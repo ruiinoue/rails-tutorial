@@ -58,6 +58,10 @@ https://github.com/ruiinoue/rails-tutorial/tree/feature/section/basic-login
 
 https://github.com/ruiinoue/rails-tutorial/tree/feature/section/login-remember
 
+- ユーザーの更新・編集・削除のブランチ
+
+https://github.com/ruiinoue/rails-tutorial/tree/feature/section/updating-users
+
 ## 演習問題
 
 ここに演習問題の一覧を表示します。
@@ -159,3 +163,21 @@ https://github.com/ruiinoue/rails-tutorial/tree/feature/section/login-remember
 - https://github.com/ruiinoue/rails-tutorial/issues/147
 - https://github.com/ruiinoue/rails-tutorial/issues/149
 - https://github.com/ruiinoue/rails-tutorial/issues/152
+
+### ユーザーの更新・編集・削除の演習
+
+- https://github.com/ruiinoue/rails-tutorial/issues/156
+- https://github.com/ruiinoue/rails-tutorial/issues/159
+- https://github.com/ruiinoue/rails-tutorial/issues/161
+- https://github.com/ruiinoue/rails-tutorial/issues/164
+- https://github.com/ruiinoue/rails-tutorial/issues/166
+- https://github.com/ruiinoue/rails-tutorial/issues/168
+- https://github.com/ruiinoue/rails-tutorial/issues/170
+- https://github.com/ruiinoue/rails-tutorial/issues/173
+- https://github.com/ruiinoue/rails-tutorial/issues/175
+- https://github.com/ruiinoue/rails-tutorial/issues/177
+- https://github.com/ruiinoue/rails-tutorial/issues/178
+- https://github.com/ruiinoue/rails-tutorial/issues/182
+- https://github.com/ruiinoue/rails-tutorial/issues/184
+- https://github.com/ruiinoue/rails-tutorial/issues/187
+- https://github.com/ruiinoue/rails-tutorial/issues/189
